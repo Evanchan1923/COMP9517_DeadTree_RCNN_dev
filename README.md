@@ -8,3 +8,5 @@ This project aims to:
 - Detect and segment objects in images using a pretrained or custom-trained Mask R-CNN model.
 - Load and visualize training data, annotations, and prediction outputs.
 - Fine-tune or apply Mask R-CNN on your own dataset.
+
+JInghao
