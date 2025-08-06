@@ -10,3 +10,6 @@ This project aims to:
 - Fine-tune or apply Mask R-CNN on your own dataset.
 
 JInghao
+
+`mask_mask_rcnn_coco.h5' is the weight key file!
+

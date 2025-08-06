@@ -11,3 +11,4 @@ __pycache__/
 
 *.png
 *.h5
+*.pyc
